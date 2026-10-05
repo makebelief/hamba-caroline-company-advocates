@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hamba-caroline-company-advocates.vercel.app/sitemap.xml
